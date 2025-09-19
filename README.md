@@ -24,3 +24,15 @@ This website mainly maded for education purpose!!
   </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <title>विज्ञान</title>
+</head>
+<body>
+  <h1>विज्ञान प्रश्न पत्र</h1>
+  <p>यहाँ पर कक्षा 9 का विज्ञान का पेपर होगा।</p>
+  <a href="index.html">🔙 वापस विषय सूची पर</a>
+</body>
+</html>
